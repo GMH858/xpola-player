@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://liveakgrns.alkassdigital.net/hls/live/2097037-b/Alkass2heb/hdntl=exp=1760086144~acl=%2f*~data=hdntl~hmac=f7a7018509f84fd3daf6b863282acec7f9420edacac62b02f8eb927ac4045679/master1080.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://liveakgrns.alkassdigital.net/hls/live/2097037-b/Alkass2heb/hdntl=exp=1760086144~acl=%2f*~data=hdntl~hmac=f7a7018509f84fd3daf6b863282acec7f9420edacac62b02f8eb927ac4045679/master720.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://liveakgrns.alkassdigital.net/hls/live/2097037-b/Alkass2heb/hdntl=exp=1760086144~acl=%2f*~data=hdntl~hmac=f7a7018509f84fd3daf6b863282acec7f9420edacac62b02f8eb927ac4045679/master450.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+https://liveakgrns.alkassdigital.net/hls/live/2097037-b/Alkass2heb/hdntl=exp=1760086144~acl=%2f*~data=hdntl~hmac=f7a7018509f84fd3daf6b863282acec7f9420edacac62b02f8eb927ac4045679/master340.m3u8
