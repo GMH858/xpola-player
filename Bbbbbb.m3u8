@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://live.kwikmotion.com/smc4sports2live/sports2.smil/smc4sports2publish/sports2_source/hdntl=exp=1760371439~acl=%2fsmc4sports2live%2fsports2.smil%2f*~data=hdntl~hmac=ed0b3cce1ae33ab8dec11c1745b8238df6d8a493cdd534ee92e2c3c2678c4e0f/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://live.kwikmotion.com/smc4sports2live/sports2.smil/smc4sports2publish/sports2_360p/hdntl=exp=1760371439~acl=%2fsmc4sports2live%2fsports2.smil%2f*~data=hdntl~hmac=ed0b3cce1ae33ab8dec11c1745b8238df6d8a493cdd534ee92e2c3c2678c4e0f/chunks.m3u8
