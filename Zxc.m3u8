@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd?expires=1760887910&md5=LMFJso4k8HyJ3ypQxiF-7Q&8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd?expires=1760887910&md5=LMFJso4k8HyJ3ypQxiF-7Q&7
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd?expires=1760887910&md5=LMFJso4k8HyJ3ypQxiF-7Q&6
