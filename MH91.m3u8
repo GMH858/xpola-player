@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+
+# تعريف تدفق الفيديو
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="vgroup",NAME="فيديو النهرين",DEFAULT=YES,AUTOSELECT=YES
+
+# تعريف تدفق الصوت
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="agroup",NAME="صوت النهرين",LANGUAGE="ara",DEFAULT=YES,AUTOSELECT=YES,URI="https://stream.alnahrain.tv/AlnahrainTV/tracks-a1/index.m3u8"
+
+# تيار الفيديو الرئيسي مع رابط الصوت
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",VIDEO="vgroup",AUDIO="agroup"
+https://stream.alnahrain.tv/AlnahrainTV/tracks-v1/index.m3u8
