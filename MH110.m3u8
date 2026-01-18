@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://livear.marjaeyattv.com/mtv_ar/playlist05/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://livear.marjaeyattv.com/mtv_ar/playlist04/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://livear.marjaeyattv.com/mtv_ar/playlist03/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x360
+https://livear.marjaeyattv.com/mtv_ar/playlist02/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+https://livear.marjaeyattv.com/mtv_ar/playlist01/index.m3u8
