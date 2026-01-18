@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x256
+https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x240
+https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv_240p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x160
+https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv_160p/chunks.m3u8
