@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://ak.imamhussein.live/imhtv6live/imhtv6.smil/imhtv6publish/imhtv6_source/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://ak.imamhussein.live/imhtv6live/imhtv6.smil/imhtv6publish/imhtv6_480p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+https://ak.imamhussein.live/imhtv6live/imhtv6.smil/imhtv6publish/imhtv6_240p/chunks.m3u8
