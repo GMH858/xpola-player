@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://live-hls-web-ajd-bp.thehlive.com/AJD/01.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://live-hls-web-ajd-bp.thehlive.com/AJD/02.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x560
+https://live-hls-web-ajd-bp.thehlive.com/AJD/03.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x480
+https://live-hls-web-ajd-bp.thehlive.com/AJD/04.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x360
+https://live-hls-web-ajd-bp.thehlive.com/AJD/05.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+https://live-hls-web-ajd-bp.thehlive.com/AJD/06.m3u8
