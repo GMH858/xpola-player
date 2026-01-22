@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x560
+https://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x360
+https://live.presstv.ir/hls/ifilmar_3_482/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x270
+https://live.presstv.ir/hls/ifilmar_2_482/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x180
+https://live.presstv.ir/hls/ifilmar_1_482/index.m3u8
