@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# BBC Arabic TV - جميع الجودات المتاحة
+# Generated from your links
+
+#EXT-X-STREAM-INF:BANDWIDTH=1604032,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",NAME="1080p High"
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=827008,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",NAME="720p Medium"
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=437056,RESOLUTION=854x480,CODECS="avc1.64001e,mp4a.40.2",NAME="480p Standard"
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv5/b=437056/main.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=281024,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2",NAME="360p Low"
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv4/b=281024/a=pa3/b=96000/main.m3u8
