@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,RESOLUTION=1280x720,NAME="720p"
+https://live.cdn.asset.aparat.com/74df0865577334ffd3f6577bec0b9222/livehls/ImamRezaTVLive_rfg37o0_720p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=854x480,NAME="480p"
+https://live.cdn.asset.aparat.com/74df0865577334ffd3f6577bec0b9222/livehls/ImamRezaTVLive_rfg37o0_480p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,RESOLUTION=640x360,NAME="360p"
+https://live.cdn.asset.aparat.com/74df0865577334ffd3f6577bec0b9222/livehls/ImamRezaTVLive_rfg37o0_360p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,RESOLUTION=426x240,NAME="240p"
+https://live.cdn.asset.aparat.com/74df0865577334ffd3f6577bec0b9222/livehls/ImamRezaTVLive_rfg37o0_240p/index.m3u8
