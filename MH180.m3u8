@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Quran Radio",DEFAULT=YES,AUTOSELECT=YES,URI="https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,AUDIO="audio"
+https://newlive.nasimrezvan.com/hls/Haramrazavi/index.m3u8
