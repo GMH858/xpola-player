@@ -109,3 +109,10 @@ https://raw.githubusercontent.com/GMH858/mr-tv-playlist/refs/heads/main/%D8%A7%D
 #EXTINF:-1, رعب
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/GMH858/mr-tv-playlist/refs/heads/main/%D8%A7%D9%81%D9%84%D8%A7%D9%85.m3u
+#EXTINF:-1, اكشن
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/GMH858/mr-tv-playlist/refs/heads/main/%D8%A7%D9%81%D9%84%D8%A7%D9%85.m3u
+
+#EXTINF:-1, رعب
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/GMH858/mr-tv-playlist/refs/heads/main/%D8%A7%D9%81%D9%84%D8%A7%D9%85.m3u
